@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Python+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Future+Software+Engineer"/>
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anantha534&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
