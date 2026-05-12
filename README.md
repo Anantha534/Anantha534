@@ -100,6 +100,14 @@ Python • Pandas • Scikit-learn • XGBoost • Streamlit
 Improved understanding of machine learning workflows, data preprocessing, forecasting models, dashboard development, and AI-based decision systems.
 
 🔗 Repository: [https://github.com/Anantha534/water-demand-dashboard](https://github.com/Anantha534/water-demand-dashboard)
+<p align="center">
+  <img src="images/WhatsApp Image 2026-05-12 at 1.20.15 PM.jpeg" width="700"/>
+</p>
+
+<p align="center">
+  <img src="images/WhatsApp Image 2026-05-12 at 1.20.16 PM (1).jpeg" width="340"/>
+  <img src="images/WhatsApp Image 2026-05-12 at 10.25.05 PM.jpeg" width="340"/>
+</p>
 
 ---
 
