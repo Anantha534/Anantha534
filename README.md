@@ -1,108 +1,223 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Anantha%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+# Hi 👋 I'm Anantha Krishna M
 
-<h1 align="center">Hi 👋, I'm Anantha Krishna</h1>
+<div align="center">
 
-<h3 align="center">AI & Software Development Enthusiast</h3>
+### AI & Software Development Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Java+Developer;AI+Enthusiast;CSE+Student;Building+Real+World+Projects"/>
-</p>
+Learning Python and Java as an aspiring developer passionate about AI, coding, and building practical software solutions. Enjoy building web applications and software tools while continuously improving coding and problem-solving skills.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anantha534&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Python+Developer;Software+Developer;Problem+Solver;Building+Real+World+Projects" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 CSE Student
-- 💡 Interested in AI & Software Development
-- 🧠 Learning Python, Java, SQL, HTML & CSS
-- 🎯 Building real-world projects for product-based companies
-- 📚 Continuously improving coding and problem-solving skills
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+* 🎓 CSE Student passionate about AI and Software Development
+* 💻 Currently learning Python, Java, HTML, CSS, SQL & Web Development
+* 🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
+* 🌱 Consistently improving problem-solving and development skills
+* 🧠 Solved 200+ LeetCode problems focused on DSA and algorithms
+* 🔥 Building real-world projects to strengthen practical development experience
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anantha534&show_icons=true&theme=tokyonight" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anantha534&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=Anantha534&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🚍 Bus Booking System
-- Full-stack bus booking platform
-- Dynamic seat selection
-- Ticket generation and management
-- Payment simulation system
-
-### 💧 Water Demand Dashboard
-- AI-powered forecasting dashboard
-- Built using Python, Streamlit & XGBoost
-- Data visualization and prediction system
-
-### 📦 Inventory Management System
-- Java-based inventory tracking system
-- Product management and stock updates
-- Inventory monitoring features
+</div>
 
 ---
 
-## 🏆 Achievements
+# 📌 Featured Projects
 
-- Built multiple real-world software projects
-- Active GitHub project developer
-- Strong interest in AI and intelligent systems
-- Continuously improving development skills
+## 🚍 Bus Booking System
 
----
+Built a complete web-based bus ticket booking application that replicates a real-world booking experience with modern UI and interactive features.
 
-## 🌐 Connect With Me
+### 🔹 Features
 
-<p align="left">
+* Smart search by state, city & travel date
+* Dynamic route visualization using maps
+* Interactive seat selection with blocked seats
+* Payment simulation (UPI / Card / Net Banking)
+* Ticket management dashboard
+* Cancellation system with penalty logic
+* Downloadable booking receipt generation
 
-<a href="https://github.com/Anantha534" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🛠️ Tech Stack
 
-</p>
+Python (Flask) • HTML • CSS • JavaScript
 
----
+### 📷 Project Screenshots
+
+> Upload your screenshots inside the repository folder named `images` and replace image paths below.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+  <img src="images/bus-home.png" width="700"/>
+  <br><br>
+  <img src="images/bus-search.png" width="700"/>
+  <br><br>
+  <img src="images/bus-seat.png" width="700"/>
+  <br><br>
+  <img src="images/bus-payment.png" width="700"/>
 </p>
+
+### 📚 What I Learned
+
+This project helped me understand frontend-backend integration, booking flow systems, state management, and real-world transaction handling.
+
+🔗 Repository: [https://github.com/Anantha534/Bus-Booking-System](https://github.com/Anantha534/Bus-Booking-System)
+
+---
+
+## 💧 AI-Based Water Demand Forecasting Dashboard
+
+Developed an AI-powered dashboard to forecast water demand and support smart water management decisions using machine learning.
+
+### 🔹 Features
+
+* Area-wise water demand monitoring
+* AI-powered water demand prediction
+* Interactive dashboard visualization
+* Pump scheduling recommendations
+* Real-time forecasting insights
+* Public deployment using Streamlit Cloud
+
+### 🛠️ Tech Stack
+
+Python • Pandas • Scikit-learn • XGBoost • Streamlit
+
+### 📷 Project Screenshots
+
+<p align="center">
+  <img src="images/water-dashboard.png" width="700"/>
+  <br><br>
+  <img src="images/water-chart.png" width="700"/>
+</p>
+
+### 📚 What I Learned
+
+Improved understanding of machine learning workflows, data preprocessing, forecasting models, dashboard development, and AI-based decision systems.
+
+🔗 Repository: [https://github.com/Anantha534/water-demand-dashboard](https://github.com/Anantha534/water-demand-dashboard)
+
+---
+
+# 🏆 Certifications
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+* IBM SkillsBuild — Artificial Intelligence Fundamentals
+* IBM SkillsBuild — Introduction to Artificial Intelligence
+* IBM SkillsBuild — Natural Language Processing and Computer Vision
+* IBM SkillsBuild — Crafting Precision Prompts with Generative AI
+* Analytics Vidhya — Introduction to AI & ML
+* AWS Educate — Machine Learning Foundations
+* AWS Educate — Introduction to Generative AI
+* Cisco Networking Academy — Introduction to Modern AI
+
+## ☁️ Cloud & Security
+
+* AWS Educate — Cloud Computing 101
+* Cisco Networking Academy — Security and Connectivity Support
+* IITM Pravartak — Cyber Security Awareness Workshop
+
+---
+
+# 💼 Internships & Experience
+
+## 🧑‍💻 Python Development Intern — Cognifyz Technologies
+
+* Worked as a Python Development Intern
+* Strengthened Python programming and problem-solving skills
+* Gained practical exposure to technical workflows and development practices
+
+## 🧑‍💻 Python Programming Intern — InternPe
+
+* Completed a Python Programming Internship
+* Improved logical thinking and programming fundamentals
+* Worked on practical coding tasks and exercises
+
+## 🌱 1M1B Green Internship — AI Water Demand Forecasting Project
+
+* Developed an AI-powered water demand prediction system
+* Built interactive dashboard visualizations
+* Worked with machine learning models and deployment tools
+* Gained hands-on exposure to AI project development
+
+---
+
+# 🧠 Technical Events & Workshops
+
+## 💡 Idea Hunt — NeXus 7.0
+
+Presented a healthcare emergency assistance web application concept focused on hospital recommendations, emergency routing, ambulance booking, multilingual support, and accessibility.
+
+## 🚆 VISION UI — IGNITE'26
+
+Designed “RailAccess” — an AI-powered smart train booking system prototype with accessibility tools, voice interaction, AI recommendations, and journey companion features.
+
+## 🔐 Cyber Security Awareness Workshop — IIT Madras
+
+Attended cybersecurity workshop conducted by IITM Pravartak covering phishing attacks, cyber threats, ethical hacking concepts, and AI in voice phishing.
+
+---
+
+# 📈 Coding Journey
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/ananthakrishna123?theme=dark&font=Poppins&ext=contest" />
+
+</div>
+
+* ✅ Solved 200+ LeetCode problems
+* 🔥 Achieved 88-day coding streak
+* 🧠 Practiced DSA topics including Arrays, Trees, BFS, Hashing, Strings & Sorting
+* 📚 Focused on strengthening logical thinking and algorithmic problem-solving
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anantha534&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anantha534&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anantha534&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anantha534)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building skills today to create impactful technology tomorrow.
+
+</div>
