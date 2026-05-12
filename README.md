@@ -1,6 +1,6 @@
 # 🚀 FULL GITHUB PROFILE README CODE
 
-```md
+
 <h1 align="center">Hi 👋, I'm Anantha Krishna M</h1>
 <h3 align="center">AI & Software Development Enthusiast 🚀</h3>
 
