@@ -197,13 +197,27 @@ Learned cybersecurity fundamentals, phishing attacks, ethical hacking phases, an
 
 </p>
 
-### 📫 Contact Information
+## 🌐 Connect With Me
 
-- 📧 Email: ananthakrishnam27@gmail.com
-- 📱 Phone: +91 8300124182
-- 💻 GitHub: github.com/Anantha534
+<p align="left">
 
----
+<a href="https://github.com/Anantha534" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+<a href="mailto:ananthakrishnam27@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+</a>
+
+<a href="tel:+918300124182">
+  <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="40" height="40"/>
+</a>
+
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:00BFFF&height=120&section=footer"/>
