@@ -2,30 +2,41 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Enthusiast;Software+Developer;CSE+Student;Future+Engineer)
 
-🚀 CSE Student | Software Developer | Beginner
-💡 Interested in AI, Full Stack and Coding.  
+🚀 CSE Student | Software Developer  
+💡 Interested in AI, Robotics & Intelligent Systems  
 🎯 Building projects for product-based companies
 
 ---
 
 ## 🛠 Tech Stack
-- Java
-- Python
-- SQL
-- HTML/CSS
-- Git & GitHub
-- Streamlit
-- XGBoost
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anantha534&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anantha534&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anantha534&theme=tokyonight)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚍 Bus Booking System
-A full-stack bus booking system with:
+A full-stack bus booking system featuring:
 - Dynamic seat selection
 - Ticket generation
 - Payment simulation
+- Route visualization
 
 ### 💧 Water Demand Dashboard
 AI-powered water demand forecasting dashboard using:
@@ -50,4 +61,5 @@ Java-based inventory management system with:
 ---
 
 ## 📫 Connect With Me
+
 - GitHub: https://github.com/Anantha534
