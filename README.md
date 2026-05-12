@@ -1,6 +1,8 @@
 # 🚀 FULL GITHUB PROFILE README CODE
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:00BFFF&height=220&section=header&text=Anantha%20Krishna%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 <h1 align="center">Hi 👋, I'm Anantha Krishna M</h1>
 <h3 align="center">AI & Software Development Enthusiast 🚀</h3>
 
@@ -10,6 +12,10 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anantha534&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
@@ -151,6 +157,8 @@ Learned cybersecurity fundamentals, phishing attacks, ethical hacking phases, an
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -161,16 +169,43 @@ Learned cybersecurity fundamentals, phishing attacks, ethical hacking phases, an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anantha534&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anantha534&theme=tokyonight&row=1&column=6"/>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/Anantha534
-- LinkedIn: Add your LinkedIn profile here
+<p align="center">
+
+<a href="https://github.com/Anantha534">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ananthakrishnam27@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+918300124182">
+  <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+### 📫 Contact Information
+
+- 📧 Email: ananthakrishnam27@gmail.com
+- 📱 Phone: +91 8300124182
+- 💻 GitHub: github.com/Anantha534
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A5ACD,100:00BFFF&height=120&section=footer"/>
 </p>
 ```
