@@ -62,20 +62,6 @@ Built a complete web-based bus ticket booking application that replicates a real
 
 Python (Flask) • HTML • CSS • JavaScript
 
-### 📷 Project Screenshots
-
-> Upload your screenshots inside the repository folder named `images` and replace image paths below.
-
-<p align="center">
-  <img src="images/bus-home.png" width="700"/>
-  <br><br>
-  <img src="images/bus-search.png" width="700"/>
-  <br><br>
-  <img src="images/bus-seat.png" width="700"/>
-  <br><br>
-  <img src="images/bus-payment.png" width="700"/>
-</p>
-
 ### 📚 What I Learned
 
 This project helped me understand frontend-backend integration, booking flow systems, state management, and real-world transaction handling.
@@ -100,14 +86,6 @@ Developed an AI-powered dashboard to forecast water demand and support smart wat
 ### 🛠️ Tech Stack
 
 Python • Pandas • Scikit-learn • XGBoost • Streamlit
-
-### 📷 Project Screenshots
-
-<p align="center">
-  <img src="images/water-dashboard.png" width="700"/>
-  <br><br>
-  <img src="images/water-chart.png" width="700"/>
-</p>
 
 ### 📚 What I Learned
 
