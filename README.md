@@ -67,6 +67,14 @@ Python (Flask) • HTML • CSS • JavaScript
 This project helped me understand frontend-backend integration, booking flow systems, state management, and real-world transaction handling.
 
 🔗 Repository: [https://github.com/Anantha534/Bus-Booking-System](https://github.com/Anantha534/Bus-Booking-System)
+<p align="center">
+  <img src="images/WhatsApp Image 2026-05-12 at 10.48.07 PM.jpeg" width="700"/>
+</p>
+
+<p align="center">
+  <img src="images/WhatsApp Image 2026-05-12 at 10.48.07 PM (1).jpeg" width="340"/>
+  <img src="images/WhatsApp Image 2026-05-12 at 10.48.07 PM (2).jpeg" width="340"/>
+</p>
 
 ---
 
