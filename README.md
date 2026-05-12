@@ -1,5 +1,7 @@
 # Hi 👋 I'm Anantha Krishna
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Enthusiast;Software+Developer;CSE+Student;Future+Engineer)
+
 🚀 CSE Student | Software Developer | Beginner
 💡 Interested in AI, Full Stack and Coding.  
 🎯 Building projects for product-based companies
