@@ -105,10 +105,8 @@ Improved understanding of machine learning workflows, data preprocessing, foreca
 </p>
 
 <p align="center">
-  <img src="images/WhatsApp Image 2026-05-12 at 1.20.16 PM (1).jpeg" width="340"/>
-  <img src="images/WhatsApp Image 2026-05-12 at 10.25.05 PM.jpeg" width="340"/>
+  <img src="images/WhatsApp Image 2026-05-12 at 1.20.16 PM (1).jpeg" width="700"/>
 </p>
-
 ---
 
 # 🏆 Certifications
